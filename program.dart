@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print("📘 Welcome to the Multiplication Practice Program 📘");
+  print(" Welcome to the Multiplication Practice Program ");
 
   // Ask user for input
   stdout.write("Enter a number to generate its multiplication table: ");
@@ -22,5 +22,5 @@ void main() {
   print("\n🔢 Sum of the multiplication table values:");
   print(totalSum);
 
-  print("\n🎉 Great job practicing multiplication!");
+  print("\n Great job practicing multiplication!");
 }
